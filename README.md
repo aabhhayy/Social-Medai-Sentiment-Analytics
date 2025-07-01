@@ -26,4 +26,4 @@ Goal: Visualize sentiment trends for better decision-making.
 Key Features: Interactive Power BI dashboard with filters and KPIs.
 Impact: Helped spot regional emotional patterns quickly.
 
-https://github.com/aabhhayy/Sentimentanalysis/blob/main/dashboard%20img.png
+[https://github.com/aabhhayy/Sentimentanalysis/blob/main/dashboard%20img.png](https://github.com/aabhhayy/Social-Medai-Sentiment-Analytics/blob/main/dashboard%20img.png)
